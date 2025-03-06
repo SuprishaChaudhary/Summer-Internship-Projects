@@ -2,26 +2,27 @@
 
 This equity research report on Varun Beverages Ltd. provides an in-depth analysis of the company's financial performance, growth trajectory, and market positioning. As one of the largest franchisees of PepsiCo globally, Varun Beverages has demonstrated robust revenue growth, margin expansion, and strategic market penetration. The report includes:
 
-Financial Overview: Revenue, net profit, and historical financial trends.
+✅ Financial Overview: Revenue, net profit, and historical financial trends.
 
-SWOT Analysis: Strengths, weaknesses, opportunities, and threats.
+✅ SWOT Analysis: Strengths, weaknesses, opportunities, and threats.
 
-Investment Insights: Stock performance, shareholding patterns, and valuation metrics.
+✅ Investment Insights: Stock performance, shareholding patterns, and valuation metrics.
 
-Strategic Outlook: Expansion plans, acquisitions, and future prospect
+✅ Strategic Outlook: Expansion plans, acquisitions, and future prospect
 
 **Thematic & Sector-Based Mutual Fund Recommendations – Tailored Investment Insights**
 
 This project presents a curated list of mutual fund recommendations based on client-specific investment themes and sector preferences. It categorizes funds across key industries such as Transportation & Logistics, Healthcare, Technology, Infrastructure, Small Cap, and REITs.
 
 Key features of the analysis:
-Fund Performance Metrics – AUM, 1Y, 3Y, 5Y, and 10Y returns
 
-Risk & Volatility Measures – Standard deviation, Sharpe ratio, Sortino ratio, Beta, and Alpha
+📌 Fund Performance Metrics – AUM, 1Y, 3Y, 5Y, and 10Y returns
 
-Sector-Specific Investment Strategies – Focused funds aligning with client themes
+📌 Risk & Volatility Measures – Standard deviation, Sharpe ratio, Sortino ratio, Beta, and Alpha
 
-REITs Insights – Market cap, ROE, ROA, P/E ratio, and dividend yields
+📌 Sector-Specific Investment Strategies – Focused funds aligning with client themes
+
+📌 REITs Insights – Market cap, ROE, ROA, P/E ratio, and dividend yields
 
 This structured approach helps investors align their portfolios with sectoral trends, optimizing returns while managing risk. 📊🚀
 
@@ -30,6 +31,7 @@ This structured approach helps investors align their portfolios with sectoral tr
 This project provides an in-depth analysis of mid-cap stocks using key financial ratios and historical return performance. The dataset categorizes stocks across various industries, including telecommunications, finance, pharma, real estate, and more, helping investors assess valuation, profitability, and growth potential.
 
 Key Features:
+
 ✅ Valuation Metrics: Price-to-earnings (P/E), Price-to-book (P/B), and EV/EBITDA
 
 ✅ Profitability Ratios: ROE, ROA, ROCE, and Debt-to-Equity analysis
