@@ -5,6 +5,7 @@ These projects and materials are for educational purposes only, intended to illu
 _ _ _
 
 **Varun Beverages: Equity Research Report | Growth, Financials & Market Insights**
+_ _ _
 
 This equity research report on Varun Beverages Ltd. provides an in-depth analysis of the company's financial performance, growth trajectory, and market positioning. As one of the largest franchisees of PepsiCo globally, Varun Beverages has demonstrated robust revenue growth, margin expansion, and strategic market penetration. The report includes:
 
@@ -15,8 +16,10 @@ This equity research report on Varun Beverages Ltd. provides an in-depth analysi
 ✅ Investment Insights: Stock performance, shareholding patterns, and valuation metrics.
 
 ✅ Strategic Outlook: Expansion plans, acquisitions, and future prospect
+_ _ _
 
 **Thematic & Sector-Based Mutual Fund Recommendations – Tailored Investment Insights**
+_ _ _
 
 This project presents a curated list of mutual fund recommendations based on client-specific investment themes and sector preferences. It categorizes funds across key industries such as Transportation & Logistics, Healthcare, Technology, Infrastructure, Small Cap, and REITs.
 
@@ -31,8 +34,10 @@ Key features of the analysis:
 📌 REITs Insights – Market cap, ROE, ROA, P/E ratio, and dividend yields
 
 This structured approach helps investors align their portfolios with sectoral trends, optimizing returns while managing risk. 📊🚀
+_ _ _
 
 **Mid-Cap Stock Analysis – Ratio-Based Valuation & Return Performance**
+_ _ _
 
 This project provides an in-depth analysis of mid-cap stocks using key financial ratios and historical return performance. The dataset categorizes stocks across various industries, including telecommunications, finance, pharma, real estate, and more, helping investors assess valuation, profitability, and growth potential.
 
@@ -49,8 +54,10 @@ Key Features:
 ✅ Dividend Yield Analysis: Evaluating income-generating stocks
 
 This structured approach aids investors in identifying strong mid-cap opportunities while managing risk effectively. 📈📊
+_ _ _
 
 **Mutual Fund Performance Analysis – AMC-Wise Returns & Risk Metrics**
+_ _ _
 
 This dataset presents a comprehensive AMC-wise (Asset Management Company) analysis of mutual funds, focusing on key performance indicators such as historical returns, risk-adjusted ratios, and volatility measures. The data helps investors assess fund managers' efficiency and identify top-performing schemes across various categories.
 
@@ -67,4 +74,4 @@ Key Insights:
 
 This structured analysis enables investors to make informed decisions by comparing funds on both risk and return parameters. 📊📈
 
-
+_ _ _
