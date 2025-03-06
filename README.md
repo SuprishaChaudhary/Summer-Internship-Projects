@@ -62,6 +62,7 @@ _ _ _
 This dataset presents a comprehensive AMC-wise (Asset Management Company) analysis of mutual funds, focusing on key performance indicators such as historical returns, risk-adjusted ratios, and volatility measures. The data helps investors assess fund managers' efficiency and identify top-performing schemes across various categories.
 
 Key Insights:
+
 📌 AMC-Wise Fund Comparison: Performance breakdown of top AMCs like ICICI, HDFC, Kotak, Nippon, and more
 
 📌 Return Analysis: 1-year, 3-year, 5-year, and 10-year return performance
