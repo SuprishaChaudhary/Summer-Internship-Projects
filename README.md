@@ -61,7 +61,6 @@ Key Insights:
 
 This structured analysis enables investors to make informed decisions by comparing funds on both risk and return parameters. 📊📈
 
-**Disclaimer:**
+**Disclaimer:** 
 
-The projects and materials presented are solely for educational and learning purposes. They are intended to enhance understanding and demonstrate concepts practically. These projects should not be considered professional, financial, investment, legal, or business advice. Any reliance on the information provided is at your own discretion. For specific guidance, please consult a qualified professional.
-
+These projects and materials are for educational purposes only, intended to illustrate concepts and enhance learning. They do not constitute professional, financial, investment, legal, or business advice. Use of this information is at your own discretion. For specific guidance, consult a qualified professional.
