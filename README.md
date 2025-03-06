@@ -1,3 +1,9 @@
+**Disclaimer:** 
+
+These projects and materials are for educational purposes only, intended to illustrate concepts and enhance learning. They do not constitute professional, financial, investment, legal, or business advice. Use of this information is at your own discretion. For specific guidance, consult a qualified professional.
+
+
+
 **Varun Beverages: Equity Research Report | Growth, Financials & Market Insights**
 
 This equity research report on Varun Beverages Ltd. provides an in-depth analysis of the company's financial performance, growth trajectory, and market positioning. As one of the largest franchisees of PepsiCo globally, Varun Beverages has demonstrated robust revenue growth, margin expansion, and strategic market penetration. The report includes:
@@ -61,6 +67,4 @@ Key Insights:
 
 This structured analysis enables investors to make informed decisions by comparing funds on both risk and return parameters. 📊📈
 
-**Disclaimer:** 
 
-These projects and materials are for educational purposes only, intended to illustrate concepts and enhance learning. They do not constitute professional, financial, investment, legal, or business advice. Use of this information is at your own discretion. For specific guidance, consult a qualified professional.
