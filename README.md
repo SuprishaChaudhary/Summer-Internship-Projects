@@ -3,8 +3,11 @@
 This equity research report on Varun Beverages Ltd. provides an in-depth analysis of the company's financial performance, growth trajectory, and market positioning. As one of the largest franchisees of PepsiCo globally, Varun Beverages has demonstrated robust revenue growth, margin expansion, and strategic market penetration. The report includes:
 
 Financial Overview: Revenue, net profit, and historical financial trends.
+
 SWOT Analysis: Strengths, weaknesses, opportunities, and threats.
+
 Investment Insights: Stock performance, shareholding patterns, and valuation metrics.
+
 Strategic Outlook: Expansion plans, acquisitions, and future prospect
 
 **Thematic & Sector-Based Mutual Fund Recommendations – Tailored Investment Insights**
@@ -13,8 +16,11 @@ This project presents a curated list of mutual fund recommendations based on cli
 
 Key features of the analysis:
 Fund Performance Metrics – AUM, 1Y, 3Y, 5Y, and 10Y returns
+
 Risk & Volatility Measures – Standard deviation, Sharpe ratio, Sortino ratio, Beta, and Alpha
+
 Sector-Specific Investment Strategies – Focused funds aligning with client themes
+
 REITs Insights – Market cap, ROE, ROA, P/E ratio, and dividend yields
 
 This structured approach helps investors align their portfolios with sectoral trends, optimizing returns while managing risk. 📊🚀
@@ -25,9 +31,13 @@ This project provides an in-depth analysis of mid-cap stocks using key financial
 
 Key Features:
 ✅ Valuation Metrics: Price-to-earnings (P/E), Price-to-book (P/B), and EV/EBITDA
+
 ✅ Profitability Ratios: ROE, ROA, ROCE, and Debt-to-Equity analysis
+
 ✅ Return Performance: 1-month, 3-month, 1-year, 3-year, 5-year, and 10-year returns
+
 ✅ Sector-Wise Insights: Comparative study across multiple mid-cap industries
+
 ✅ Dividend Yield Analysis: Evaluating income-generating stocks
 
 This structured approach aids investors in identifying strong mid-cap opportunities while managing risk effectively. 📈📊
@@ -38,9 +48,13 @@ This dataset presents a comprehensive AMC-wise (Asset Management Company) analys
 
 Key Insights:
 📌 AMC-Wise Fund Comparison: Performance breakdown of top AMCs like ICICI, HDFC, Kotak, Nippon, and more
+
 📌 Return Analysis: 1-year, 3-year, 5-year, and 10-year return performance
+
 📌 Risk Metrics: Standard deviation, Beta, Alpha, Sharpe ratio, and Sortino ratio
+
 📌 Fund Categories: Equity, Hybrid, Thematic, Large & Mid Cap, ELSS, and more
+
 📌 Heatmap Visualization: Color-coded ranking to highlight outperformers and laggards
 
 This structured analysis enables investors to make informed decisions by comparing funds on both risk and return parameters. 📊📈
