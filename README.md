@@ -2,7 +2,7 @@
 
 These projects and materials are for educational purposes only, intended to illustrate concepts and enhance learning. They do not constitute professional, financial, investment, legal, or business advice. Use of this information is at your own discretion. For specific guidance, consult a qualified professional.
 
-
+_ _ _
 
 **Varun Beverages: Equity Research Report | Growth, Financials & Market Insights**
 
